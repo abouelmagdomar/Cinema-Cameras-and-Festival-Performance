@@ -1,6 +1,2 @@
-# Predictive-Analytics-of-HR-Data
-Developed a predictive HR analytics tool using Python and machine learning tool such as NumPy, Pandas, Sci-kit Learn, and Matplotlib to forecast employee retention risks and productivity trends. Implemented advanced regression models—including linear regression, random forest, ridge, and lasso—to enhance predictive accuracy and streamline HR decision-making.
-
-Translated business HR requirements into technical solutions, collaborating with both technical teams and business stakeholders to ensure model alignment and continuous improvement. Through data normalization, cleaning techniques, and feature engineering, Identified hidden workforce trends, providing actionable insights for workforce planning and employee retention strategies.
-
-This project highlighted my expertise in machine learning, data analysis, and model optimization while demonstrating my ability to bridge the gap between technical implementation and business impact.
+# Cinema-Cameras-and-Festival-Performance
+Conducted a longitudinal statistical analysis of cinema cameras used in feature films over the past 40 years to evaluate their relationship with film festival performance. Built a structured dataset linking camera models, production metadata, and festival outcomes, then applied exploratory analysis and regression techniques to identify trends, correlations, and potential biases in selection and award recognition. The project focused on separating technological adoption effects from creative and industry factors, translating findings into clear insights on how equipment choices intersect with festival success.
