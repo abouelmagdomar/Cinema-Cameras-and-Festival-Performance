@@ -1,2 +1,6 @@
 # Cinema-Cameras-and-Festival-Performance
-Conducted a longitudinal statistical analysis of cinema cameras used in feature films over the past 40 years to evaluate their relationship with film festival performance. Built a structured dataset linking camera models, production metadata, and festival outcomes, then applied exploratory analysis and regression techniques to identify trends, correlations, and potential biases in selection and award recognition. The project focused on separating technological adoption effects from creative and industry factors, translating findings into clear insights on how equipment choices intersect with festival success.
+In this project, we conducted descriptive analysis on 20 years of film festival data to uncover correlations between camera choices and selection success, providing valuable procurement insights for film studios. Through statistical exploration, we identified key trends that informed data-driven decision-making in the industry.
+
+To enhance data consistency and enable predictive analytics, we developed a Python-based data pipeline to web scrape and normalize film industry datasets. This included designing a custom indexing system for over 8,000 movies, streamlining data integration and analysis. Additionally, we applied data extraction, cleaning, and transformation techniques to ensure high-quality datasets for machine learning model development.
+
+This project showcased my expertise in data analysis, web scraping, and predictive analytics.
